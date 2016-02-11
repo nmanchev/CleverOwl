@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 """
 (C) 2016 Nikolay Manchev, [CleverOwl blog](http://http://www.cleverowl.uk)
 
